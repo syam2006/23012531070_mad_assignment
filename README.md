@@ -6,7 +6,7 @@ A simple BMI (Body Mass Index) calculator app built for Android using Kotlin.
 - Introduction
 - Features
 - Screenshots
-- Setup
+- Setup  
 - Dependencies
 - Usage
 - FAQ
