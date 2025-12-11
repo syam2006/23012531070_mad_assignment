@@ -33,18 +33,7 @@ This Android application calculates the Body Mass Index (BMI) based on the user'
 </div>
 
 
-## Setup
-- Clone the repository:
-```http
-git clone https://github.com/yourusername/bmi-calculator-app.git
-```
-- Open the project in Android Studio.
-- Build and run the project on an Android emulator or a physical device.
 
-
-## Download APK
-You can download the APK from the links below:
-[Download the App](https://github.com/faysalabir779/BMICalculator/releases/download/1.1/BMI.Calculator.apk)
 
 ## Usage
 - Launch the app on your Android device.
